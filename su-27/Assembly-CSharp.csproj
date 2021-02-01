@@ -62,6 +62,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\MainMenu.cs" />
     <Compile Include="Assets\Scripts\Bullet.cs" />
     <Compile Include="Assets\Scripts\CameraFollow.cs" />
     <Compile Include="Assets\Scripts\Gun1.cs" />
@@ -69,6 +70,12 @@
     <Compile Include="Assets\Scripts\HealthPoints.cs" />
     <Compile Include="Assets\Scripts\TileMovmentComntroller.cs" />
     <Compile Include="Assets\Scripts\TileMovmentController2.cs" />
+    <None Include="Assets\2D Space Kit\Backgrounds\Background Tip.txt" />
+    <None Include="Assets\2D Space Kit\Background Elements\Stars\Recolor Us!.txt" />
+    <None Include="Assets\2D Space Kit\Backgrounds\Fantasy Purple 2048\Note.txt" />
+    <None Include="Assets\2D Space Kit\Background Elements\Planets\Planet Masks\Note.txt" />
+    <None Include="Assets\2D Space Kit\Readme.txt" />
+    <None Include="Assets\2D Space Kit\Particles (Sprites)\Note on Flares.txt" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>G:/unity/projects/SU-27/su-27/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
